@@ -1,0 +1,370 @@
+2025-09-12T22:26:31.364841 | ACTION: Analyze scientific query: 'Area of the hysteresis loop' | CONFIRMED: True | RESPONSE: Hysteresis: lag between input and output in magnetic or mechanical systems.
+
+Area of loop measures energy dissipation; analyze magnetization curves.
+2025-09-12T22:27:13.892936 | ACTION: Analyze scientific query: 'Which experiment demonstrates the wave-particle duality of electrons?' | CONFIRMED: True | RESPONSE: (ANNA: Query not recognized in offline modules. Please try different keywords.)
+2025-09-12T22:49:42.506399 | ACTION: Analyze scientific query: 'Please explain the double-split experiment.' | CONFIRMED: True | RESPONSE: (arXiv Exception: Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?)
+
+(PubMed: No results found)
+
+(Wikipedia: No content found)
+2025-09-12T22:52:34.128063 | ACTION: Analyze scientific query: 'double split experiment' | CONFIRMED: True | RESPONSE: Alternating Stationary Iterative Methods Based on Double Splittings
+Matrix double splitting iterations are simple in implementation while solving
+real non-singular (rectangular) linear systems. In this paper, we present two
+Alternating Double Splitting (ADS) schemes formulated by two double splittings
+and then alternating the respective iterations. The convergence conditions are
+then discussed along with comparative analysis. The set of double splittings
+used in each ADS schemes induce a preconditioned system which helps in showing
+the convergence of the ADS schemes. We also show that the classes of matrices
+for which one ADS scheme is better than the other are mutually exclusive.
+Numerical experiments confirm the proposed ADS schemes are superior to the
+existing methods in actual implementation. Though the problems are considered
+in the rectangular matrix settings, the same problems are even new in
+non-singular matrix settings.
+
+Splitting of the Raman $2D$ band of graphene subjected to strain
+The Raman $2D$-band -important for the analysis of graphene- shows a
+splitting for uniaxial strain. The splitting depends on the strength and
+direction of the applied strain and on the polarization of the incident and
+outgoing light. We expand the double-resonance Raman model in order to explain
+the strain direction dependence and the polarization dependence of the
+splitting. The analysis of this splitting gives new insight into the origin of
+the $2D$-band. Our prediction of the strain direction and polarization
+dependence agrees well with recent experiments.
+
+Tseng Splitting Method with Double Inertial Steps for Solving Monotone
+  Inclusion Problems
+In this paper, based on a double inertial extrapolation steps strategy and
+relaxation techniques, we introduce a new Tseng splitting method with double
+inertial extrapolation steps and self-adaptive step sizes for solving monotone
+inclusion problems in real Hilbert spaces. Finally, several numerical
+experiments are provided to illustrate the performance and theoretical outcomes
+of our algorithm.
+
+Conventional versus single-ladder-splitting contributions to double
+  parton scattering production of two quarkonia, two Higgs bosons and $c \bar c
+  c \bar c$
+The double parton distributions (dPDF), both conventional and those
+corresponding to parton splitting, are calculated and compared for different
+two-parton combinations. The conventional and splitting dPDFs have very similar
+shape in $x_1$ and $x_2$. We make a first quantitative evaluation of the
+single-ladder-splitting contribution to double parton scattering (DPS)
+production of two S- or P-wave quarkonia, two Higgs bosons and $c \bar c c \bar
+c$. The ratio of the single-ladder-splitting to conventional contributions is
+discussed as a function of centre-of-mass energy, mass of the produced system
+and other kinematical variables. Using a simple model for the dependence of the
+conventional two-parton distribution on transverse parton separation (Gaussian
+and independent of $x_i$ and scales), we find that the 2v1 contribution is as
+big as the 2v2 contribution discussed in recent years in the literature. This
+means that the phenomenological analyses of $\sigma_{eff}$ including only the
+conventional DPS mechanism have to be revised including explicitly the
+single-ladder-splitting contributions discussed here. The differential
+distributions in rapidity and transverse momenta calculated for conventional
+and single-ladder-splitting DPS processes are however very similar which causes
+their experimental separation to be rather difficult, if not impossible. The
+direct consequence of the existence of the two components (conventional and
+splitting) is the energy and process dependence of the empirical parameter
+$\sigma_{eff}$. This is illustrated in our paper for the considered processes.
+
+Double parton scattering in double logarithm approximation of
+  perturbative QCD
+Using the explicit form of the known single distribution functions (the
+Green's functions) in the double logarithm approximation of perturbative QCD,
+we analyze the structure of splitting diagrams as a source of double parton
+perturbative correlations in the proton. The related phenomenological effects
+are discussed for the conditions of the LHC experiments.
+
+
+Concerted Swing-Coupled Double Proton Tunneling Induced by Dispersion Interaction: Quantum Dynamics for the Formic Acid Dimer-Fluorobenzene System. (J Chem Theory Comput)
+Quantifying Patient Preferences for Basal Insulin Treatments in Adults Living with Type 2 Diabetes: A Discrete Choice Experiment in Canada, Spain, France, and Japan. (Diabetes Ther)
+Inversion Motion of Xanthene and Detection of Its Oxidation Product Xanthone from Gas-Phase Rotational Spectroscopy. (Molecules)
+Assemblatron: An Automated Workflow for High-Throughput Assembly of Big-DNA Libraries. (bioRxiv)
+Triplet Vinylidenes Based on (Benz)imidazole and 1,2,3-Triazole N‑Heterocycles. (JACS Au)
+
+(Wikipedia: No content found)
+2025-09-12T22:56:42.360349 | ACTION: Analyze scientific query: 'what is the order theory?' | CONFIRMED: True | RESPONSE: Superrelativity as a unification of quantum theory and relativity(II)
+A underlying dynamical structure for both relativity and quantum
+theory-``superrelativity'' has been proposed in order to overcome the well
+known incompatibility between these theories. The relationship between
+curvature of spacetime (gravity) and curvature of the projective Hilbert space
+of pure quantum states is established as well.
+
+Factorization of alternating sums of Virasoro characters
+G. Andrews proved that if $n$ is a prime number then the coefficients $a_k$
+and $a_{k+n}$ of the product $(q,q)_\infty/(q^n,q^n)_\infty=\sum_k a_kq^k$ have
+the same sign, see [A1]. We generalize this result in several directions. Our
+results are based on the observation that many products can be written as
+alternating sums of characters of Virasoro modules.
+
+Algebraic Type Theory and Universe Hierarchies
+It is commonly believed that algebraic notions of type theory support only
+universes \`a la Tarski, and that universes \`a la Russell must be removed by
+elaboration. We clarify the state of affairs, recalling the details of
+Cartmell's discipline of _generalized algebraic theory_, showing how to
+formulate an algebraic version of Coquand's cumulative cwfs with universes \`a
+la Russell. To demonstrate the power of algebraic techniques, we sketch a
+purely algebraic proof of canonicity for Martin-L\"of Type Theory with
+universes, dependent function types, and a base type with two constants.
+
+Black Hole Entropy and the Dimensional Continuation of the Gauss-Bonnet
+  Theorem
+The Euclidean black hole has topology $\Re^2 \times {\cal S}^{d-2}$. It is
+shown that -in Einstein's theory- the deficit angle of a cusp at any point in
+$\Re^2$ and the area of the ${\cal S}^{d-2}$ are canonical conjugates. The
+black hole entropy emerges as the Euler class of a small disk centered at the
+horizon multiplied by the area of the ${\cal S}^{d-2}$ there.These results are
+obtained through dimensional continuation of the Gauss-Bonnet theorem. The
+extension to the most general action yielding second order field equations for
+the metric in any spacetime dimension is given.
+
+Levy preservation and associated properties for $f$-divergence minimal
+  equivalent martingale measures
+We study such important properties of $f$-divergence minimal martingale
+measure as Levy preservation property, scaling property, invariance in time
+property for exponential Levy models. We give some useful decomposition for
+$f$-divergence minimal martingale measures and we answer on the question which
+form should have $f$ to ensure mentioned properties. We show that $f$ is not
+necessarily common $f$-divergence. For common $f$-divergences, i.e. functions
+verifying $f"(x) = ax^ {\gamma},\, a>0,\, \gamma \in \mathbb R$, we give
+necessary and sufficient conditions for existence of $f$-minimal martingale
+measure.
+
+
+(PubMed: No results found)
+
+The New World Order (NWO) is a term often used in conspiracy theories which hypothesize a secretly emerging totalitarian world government. The common theme in conspiracy theories about a New World Order is that a secretive power elite with a globalist agenda is conspiring to eventually rule the world through an authoritarian one-world government—which will replace sovereign nation-states—and an all-encompassing propaganda whose ideology hails the establishment of the New World Order as the culmination of history's progress. Many influential historical and contemporary figures have therefore been alleged to be part of a cabal that operates through many front organizations to orchestrate significant political and financial events, ranging from causing systemic crises to pushing through controversial policies, at both national and international levels, as steps in an ongoing plot to achieve world domination.
+Before the early 1990s, New World Order conspiracism was limited to two American countercultures, primarily the militantly anti-government right, and secondarily the part of fundamentalist Christianity concerned with the eschatological end-time emergence of the Antichrist. Academics who study conspiracy theories and religious extremism, such as Michael Barkun and Chip Berlet, observed that right-wing populist conspiracy theories about a New World Order not only have been embraced by many seekers of stigmatized knowledge but also have seeped into popular culture, thereby fueling a surge of interest and participation in survivalism and paramilitarism as many people actively prepare for apocalyptic and millenarian scenarios. These political scientists warn that mass hysteria over New World Order conspiracy theories could eventually have devastating effects on American political life, ranging from escalating lone-wolf terrorism to the rise to power of authoritarian ultranationalist demagogues.
+2025-09-12T22:58:43.755694 | ACTION: Analyze scientific query: 'is it possible to have a stroke and no side effects?' | CONFIRMED: True | RESPONSE: Ergotropic advantage in a measurement-fueled quantum heat engine
+This paper investigates a coupled two-qubits heat engine fueled by
+generalized measurements of the spin components and using a single heat
+reservoir as sink. Our model extends the four-stroke engine proposed by Yi and
+coworkers [Phys. Rev. E {\bf 96}, 022108 (2017)] by introducing an
+ergotropy-extracting stroke, resulting in a five-stroke cycle. For measurements
+along z-z directions, we find two possible occupation distributions that yield
+an active state and the ergotropic stroke improves the performance of the
+engine over the four-stroke cycle. Further, the three-stroke engine (without
+the adiabatic strokes) yields the same performance as the five-stroke engine.
+For arbitrary working medium and non-selective measurements, we prove that the
+total work output of a five-stroke engine is equal to the sum of the work
+outputs of the corresponding four-stroke and three-stroke engines. For
+measurement directions other than z-z, there may be many possible orderings of
+the post-measurement probabilities that yield an active state. However, as we
+illustrate for specific cases (x-x and x-z directions), a definite ordering is
+obtained with the projective measurements. Thus, we find that the five-stroke
+engine exploiting ergotropy outperforms both its four-stroke as well as
+three-stroke counterparts.
+
+Polar Stroking: New Theory and Methods for Stroking Paths
+Stroking and filling are the two basic rendering operations on paths in
+vector graphics. The theory of filling a path is well-understood in terms of
+contour integrals and winding numbers, but when path rendering standards
+specify stroking, they resort to the analogy of painting pixels with a brush
+that traces the outline of the path. This means important standards such as
+PDF, SVG, and PostScript lack a rigorous way to say what samples are inside or
+outside a stroked path. Our work fills this gap with a principled theory of
+stroking.
+  Guided by our theory, we develop a novel polar stroking method to render
+stroked paths robustly with an intuitive way to bound the tessellation error
+without needing recursion. Because polar stroking guarantees small uniform
+steps in tangent angle, it provides an efficient way to accumulate arc length
+along a path for texturing or dashing. While this paper focuses on developing
+the theory of our polar stroking method, we have successfully implemented our
+methods on modern programmable GPUs.
+
+MIDAS: Multi-sensorial Immersive Dynamic Autonomous System Improves
+  Motivation of Stroke Affected Patients for Hand Rehabilitation
+Majority of stroke survivors are left with poorly functioning paretic hands.
+Current rehabilitation devices have failed to motivate the patients enough to
+continue rehabilitation exercises. The objective of this project, MIDAS
+(Multi-sensorial Immersive Dynamic Autonomous System) is a proof of concept by
+using an immersive system to improve motivation of stroke patients for hand
+rehabilitation. MIDAS is intended for stroke patients who suffer from light to
+mild stroke. MIDAS is lightweight and portable. It consists of a hand
+exoskeleton subsystem, a Virtual Reality (VR) subsystem, and an olfactory
+subsystem. Altogether, MIDAS engages four out of five senses during
+rehabilitation. To evaluate the efficacy of MIDAS a pilot study consisting of
+three sessions is carried out on five stroke affected patients. Subsystems of
+MIDAS are added progressively in each session. The game environment, sonic
+effects, and scent released is carefully chosen to enhance the immersive
+experience. 60% of the scores of user experience are above 40 (out of 56). 96%
+Self Rehabilitation Motivation Scale (SRMS) rating shows that the participants
+are motivated to use MIDAS and 87% rating shows that MIDAS is exciting for
+rehabilitation. Participants experienced elevated motivation to continue stroke
+rehabilitation using MIDAS and no undesired side effects were reported.
+
+From Conception to Deployment: Intelligent Stroke Prediction Framework
+  using Machine Learning and Performance Evaluation
+Stroke is the second leading cause of death worldwide. Machine learning
+classification algorithms have been widely adopted for stroke prediction.
+However, these algorithms were evaluated using different datasets and
+evaluation metrics. Moreover, there is no comprehensive framework for stroke
+data analytics. This paper proposes an intelligent stroke prediction framework
+based on a critical examination of machine learning prediction algorithms in
+the literature. The five most used machine learning algorithms for stroke
+prediction are evaluated using a unified setup for objective comparison.
+Comparative analysis and numerical results reveal that the Random Forest
+algorithm is best suited for stroke prediction.
+
+Simulation study of short channel effects in junctionless SOI MOSFETS
+In this work influence of gate extension, channel doping level, and channel
+thickness to short channel effects- DIBL effect and subthreshold swing, SS for
+the planar and vertical junctionless field effect transistors is compared. It
+is shown in the considered range of doping level and channel thickness the DIBL
+effect is less for junctionless vertical field effect transistors.
+
+
+Evaluation of Percutaneous Coronary Intervention Results in Patients With Acute Coronary Syndrome After COVID-19. (Kardiologiia)
+Changes in Sarcopenia Status and Subsequent Cardiovascular Outcomes: Prospective Cohort Study. (JMIR Aging)
+Influence of Type 2 Diabetes on the Effects of Tirzepatide in Patients With Heart Failure and a Preserved Ejection Fraction With Obesity: A Prespecified Stratification-Based Analysis. (J Am Coll Cardiol)
+Efficacy and safety of electroacupuncture-based comprehensive treatment for post-stroke depression: a systematic review and meta-analysis of randomized controlled trials. (Front Psychiatry)
+A possible role for immunogenetic factors in myositis developing after vaccination in the pre-covid-19 era. (Front Immunol)
+
+Stroke is a medical condition in which poor blood flow to a part of the brain causes cell death. There are two main types of stroke: ischemic, due to lack of blood flow, and hemorrhagic, due to bleeding. Both cause parts of the brain to stop functioning properly.
+Signs and symptoms of stroke may include an inability to move or feel on one side of the body, problems understanding or speaking, dizziness, or loss of vision to one side. Signs and symptoms often appear soon after the stroke has occurred. If symptoms last less than 24 hours, the stroke is a transient ischemic attack (TIA), also called a mini-stroke. Hemorrhagic stroke may also be associated with a severe headache. The symptoms of stroke can be permanent. Long-term complications may include pneumonia and loss of bladder control.
+The most significant risk factor for stroke is high blood pressure. Other risk factors include high blood cholesterol, tobacco smoking, obesity, diabetes mellitus, a previous TIA, end-stage kidney disease, and atrial fibrillation. Ischemic stroke is typically caused by blockage of a blood vessel, though there are also less common causes. Hemorrhagic stroke is caused by either bleeding directly into the brain or into the space between the brain's membranes. Bleeding may occur due to a ruptured brain aneurysm. Diagnosis is typically based on a physical exam and supported by medical imaging such as a CT scan or MRI scan. A CT scan can rule out bleeding, but may not necessarily rule out ischemia, which early on typically does not show up on a CT scan. Other tests such as an electrocardiogram (ECG) and blood tests are done to determine risk factors and possible causes. Low blood sugar may cause similar symptoms.
+Prevention includes decreasing risk factors, surgery to open up the arteries to the brain in those with problematic carotid narrowing, and anticoagulant medication in people with atrial fibrillation. Aspirin or statins may be recommended by physicians for prevention. Stroke is a medical emergency. Ischemic strokes, if detected within three to four-and-a-half hours, may be treatable with medication that can break down the clot, while hemorrhagic strokes sometimes benefit from surgery. Treatment to attempt recovery of lost function is called stroke rehabilitation, and ideally takes place in a stroke unit; however, these are not available in much of the world.
+In 2023, 15 million people worldwide had a stroke. In 2021, stroke was the third biggest cause of death, responsible for approximately 10% of total deaths. In 2015, there were about 42.4 million people who had previously had stroke and were still alive. Between 1990 and 2010 the annual incidence of stroke decreased by approximately 10% in the developed world, but increased by 10% in the developing world. In 2015, stroke was the second most frequent cause of death after coronary artery disease, accounting for 6.3 million deaths (11% of the total). About 3.0 million deaths resulted from ischemic stroke while 3.3 million deaths resulted from hemorrhagic stroke. About half of people who have had a stroke live less than one year. Overall, two thirds of cases of stroke occurred in those over 65 years old.
+2025-09-12T23:01:01.687302 | ACTION: Analyze scientific query: 'what is an hysteresis loop? Why is hysteresis loop important?' | CONFIRMED: True | RESPONSE: Hysteresis: lag between input and output in magnetic or mechanical systems.
+
+Area of loop measures energy dissipation; analyze magnetization curves.
+2025-09-12T23:02:27.855852 | ACTION: Analyze scientific query: 'A hysteresis loop represents the lag between the input and output of a system, commonly seen in magnetic and mechanical systems. In magnetism, it plots magnetization versus magnetic field. The area of the loop measures energy dissipation per cycle, important for understanding material losses, efficiency, and system stability in engineering, magnetic devices, and control systems.' | CONFIRMED: True | RESPONSE: The Einstein-Podolsky-Rosen paradox illustrates that quantum mechanics allows entangled particles to have correlations that cannot be explained classically.
+
+Physics Analysis: Study Bell's theorem, violation of inequalities, and entanglement experiments.
+2025-09-12T23:12:13.948188 | ACTION: Analyze scientific query: 'what is the name of conjucture? This equation aims to see if we can prove that for if n is greater than or equal to 2, then one can write 4*n as a sum of three positive unit fractions.' | CONFIRMED: True | RESPONSE: ANNA Error during 'Analyze scientific query: 'what is the name of conjucture? This equation aims to see if we can prove that for if n is greater than or equal to 2, then one can write 4*n as a sum of three positive unit fractions.'': no such column: embedding
+2025-09-13T09:30:40.469512 | ACTION: Analyze scientific query: 'The Hodge Conjecture involves certain shapes called algebraic cycles on complex manifolds. It suggests that certain classes of these cycles are actually combinations of simpler, algebraic cycles. Mathematically, it deals with cohomology classes and their representation as sums of algebraic cycles.
+
+The general expression involving the Hodge decomposition is:
+
+H
+n
+(
+X
+,
+C
+)
+=
+⨁
+p
++
+q
+=
+n
+H
+p
+,
+q
+(
+X
+)
+H 
+n
+ (X,C)=⨁ 
+p+q=n
+​
+ H 
+p,q
+ (X)' | CONFIRMED: True | RESPONSE: ANNA Error during 'Analyze scientific query: 'The Hodge Conjecture involves certain shapes called algebraic cycles on complex manifolds. It suggests that certain classes of these cycles are actually combinations of simpler, algebraic cycles. Mathematically, it deals with cohomology classes and their representation as sums of algebraic cycles.
+
+The general expression involving the Hodge decomposition is:
+
+H
+n
+(
+X
+,
+C
+)
+=
+⨁
+p
++
+q
+=
+n
+H
+p
+,
+q
+(
+X
+)
+H 
+n
+ (X,C)=⨁ 
+p+q=n
+​
+ H 
+p,q
+ (X)'': no such column: embedding
+2025-09-13T09:30:49.786474 | ACTION: Analyze scientific query: 'The Hodge Conjecture involves certain shapes called algebraic cycles on complex manifolds. It suggests that certain classes of these cycles are actually combinations of simpler, algebraic cycles. Mathematically, it deals with cohomology classes and their representation as sums of algebraic cycles.
+
+The general expression involving the Hodge decomposition is:
+
+H
+n
+(
+X
+,
+C
+)
+=
+⨁
+p
++
+q
+=
+n
+H
+p
+,
+q
+(
+X
+)
+H 
+n
+ (X,C)=⨁ 
+p+q=n
+​
+ H 
+p,q
+ (X)' | CONFIRMED: True | RESPONSE: ANNA Error during 'Analyze scientific query: 'The Hodge Conjecture involves certain shapes called algebraic cycles on complex manifolds. It suggests that certain classes of these cycles are actually combinations of simpler, algebraic cycles. Mathematically, it deals with cohomology classes and their representation as sums of algebraic cycles.
+
+The general expression involving the Hodge decomposition is:
+
+H
+n
+(
+X
+,
+C
+)
+=
+⨁
+p
++
+q
+=
+n
+H
+p
+,
+q
+(
+X
+)
+H 
+n
+ (X,C)=⨁ 
+p+q=n
+​
+ H 
+p,q
+ (X)'': no such column: embedding
+2025-09-13T09:45:56.474646 | ACTION: Analyze scientific query: 'How to solve Hodge Conjecture?' | CONFIRMED: True | RESPONSE: ANNA Error during 'Analyze scientific query: 'How to solve Hodge Conjecture?'': no such column: embedding
+2025-09-13T09:49:07.110930 | ACTION: Analyze scientific query: 'How to solve Hodge Conjecture?' | CONFIRMED: True | RESPONSE: ANNA Error during 'Analyze scientific query: 'How to solve Hodge Conjecture?'': 'KnowledgeBase' object has no attribute 'retrieve_similar'
+2025-09-13T10:20:13.472048 | ACTION: Analyze scientific query: 'how to solve Hodge Conjecture?' | CONFIRMED: True | RESPONSE: The Hodge Conjecture is a major unsolved problem in algebraic geometry, proposing that certain classes of cohomology classes are algebraic, connecting topology and algebraic geometry. It has deep implications for understanding the structure of algebraic varieties.
+2025-09-13T10:20:13.472493 | ACTION: Analyze scientific query: 'how to solve Hodge Conjecture?' | CONFIRMED: True | RESPONSE: ANNA Error during 'Analyze scientific query: 'how to solve Hodge Conjecture?'': 'KnowledgeBase' object has no attribute 'store_query'
+2025-09-13T10:20:32.815874 | ACTION: Analyze scientific query: 'how to solve hodge conjecture?*' | CONFIRMED: True | RESPONSE: The Hodge Conjecture is a major unsolved problem in algebraic geometry, proposing that certain classes of cohomology classes are algebraic, connecting topology and algebraic geometry. It has deep implications for understanding the structure of algebraic varieties.
+2025-09-13T10:20:32.816262 | ACTION: Analyze scientific query: 'how to solve hodge conjecture?*' | CONFIRMED: True | RESPONSE: ANNA Error during 'Analyze scientific query: 'how to solve hodge conjecture?*'': 'KnowledgeBase' object has no attribute 'store_query'
+2025-09-13T10:23:24.792070 | ACTION: Analyze scientific query: 'how to solve Hodge Conjecture?' | CONFIRMED: True | RESPONSE: The Hodge Conjecture is a major unsolved problem in algebraic geometry, proposing that certain classes of cohomology classes are algebraic, connecting topology and algebraic geometry. It has deep implications for understanding the structure of algebraic varieties.
+2025-09-13T10:23:24.792528 | ACTION: Analyze scientific query: 'how to solve Hodge Conjecture?' | CONFIRMED: True | RESPONSE: ANNA Error during 'Analyze scientific query: 'how to solve Hodge Conjecture?'': KnowledgeBase.store_query() takes 2 positional arguments but 3 were given

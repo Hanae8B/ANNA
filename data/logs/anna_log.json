@@ -1,0 +1,58 @@
+[
+    {
+        "timestamp": "2025-09-12T21:46:07.756320",
+        "query": "Analyze scientific query: 'What is the Heisenberg Uncertainty Principle?'",
+        "module": "navigator",
+        "response": "Denied",
+        "confirmed": false
+    },
+    {
+        "timestamp": "2025-09-12T21:50:21.694526",
+        "query": "Analyze scientific query: 'What is the Heisenberg Uncertainty Principle?'",
+        "module": "navigator",
+        "response": "Denied",
+        "confirmed": false
+    },
+    {
+        "timestamp": "2025-09-12T22:04:07.043352",
+        "query": "Analyze scientific query: 'What is the Heisenberg Uncertainty Principle?'",
+        "module": "navigator",
+        "response": "Physics Analysis: Heisenberg's uncertainty principle limits precision of conjugate variables. Research Advice: Consider non-commuting operators, squeezed states, and measurement disturbance. ",
+        "confirmed": true
+    },
+    {
+        "timestamp": "2025-09-12T22:08:47.079091",
+        "query": "Analyze scientific query: 'Area of the hysteresis loop'",
+        "module": "navigator",
+        "response": "LLM Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: O08Gtz!!*******MPyz. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+        "confirmed": true
+    },
+    {
+        "timestamp": "2025-09-12T22:13:03.299421",
+        "query": "Analyze scientific query: 'Area of the hysteresis loop'",
+        "module": "navigator",
+        "response": "LLM Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: O08Gtz!!*******MPyz. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+        "confirmed": true
+    },
+    {
+        "timestamp": "2025-09-12T22:14:19.362311",
+        "query": "Analyze scientific query: 'Area of the hysteresis loop'",
+        "module": "navigator",
+        "response": "LLM Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+        "confirmed": true
+    },
+    {
+        "timestamp": "2025-09-12T22:14:21.533570",
+        "query": "Analyze scientific query: 'Area of the hysteresis loop'",
+        "module": "navigator",
+        "response": "User granted recurring permission",
+        "confirmed": true
+    },
+    {
+        "timestamp": "2025-09-12T22:14:24.887372",
+        "query": "Analyze scientific query: 'Area of the hysteresis loop'",
+        "module": "navigator",
+        "response": "LLM Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+        "confirmed": true
+    }
+]

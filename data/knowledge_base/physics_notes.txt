@@ -1,0 +1,22 @@
+# Physics Research Knowledge Base
+
+Quantum Gravity:
+- Approaches: Loop Quantum Gravity, String Theory, Emergent Spacetime
+- Open questions: singularities, Planck-scale phenomena, holography
+- Key references: Rovelli (Loop Quantum Gravity), Polchinski (String Theory)
+
+EPR Paradox:
+- Challenges completeness of quantum mechanics
+- Involves entangled particle correlations, Bell inequalities
+
+Uncertainty Principle:
+- Δx * Δp ≥ ħ / 2
+- Limits simultaneous measurement precision for conjugate variables
+
+Electron Stability:
+- Electron is stable under Standard Model
+- BSM physics may hypothetically allow decay; experimental limits from Super-Kamiokande
+
+Fundamental Nature of Matter:
+- Constituents: quarks, leptons, gauge bosons, Higgs
+- Open questions: dark matter, neutrino hierarchy, matter-antimatter asymmetry

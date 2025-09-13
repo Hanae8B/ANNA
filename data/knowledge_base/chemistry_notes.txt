@@ -1,0 +1,13 @@
+# Chemistry Research Knowledge Base
+
+Quantum Chemistry:
+- Methods: Ab initio, Density Functional Theory, Molecular Orbitals
+- Applications: Electron distributions, reaction pathways
+
+Catalysis:
+- Types: Heterogeneous, Enzymatic
+- Analysis: Transition states, reaction mechanisms, kinetic modeling
+
+Spectroscopy:
+- Techniques: NMR, IR, UV-Vis, Mass Spec
+- Applications: Molecular structure, dynamics

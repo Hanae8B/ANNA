@@ -1,0 +1,12 @@
+# Biology Research Knowledge Base
+
+Genetics:
+- Concepts: Gene sequences, Transcription, Translation, Epigenetics, CRISPR
+
+Cell Biology:
+- Concepts: Organelles, Signaling Pathways, Cellular Dynamics
+- Techniques: Microscopy, Live-cell imaging
+
+Systems Biology:
+- Concepts: Gene/protein/metabolite networks
+- Methods: Computational modeling, Network simulations

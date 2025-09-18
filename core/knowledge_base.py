@@ -19,10 +19,11 @@ class KnowledgeBase:
 
     def insert_knowledge(self, topic, explanation, embedding):
         c = self.conn.cursor()
+        blob = embedding.tobytes() if isinstance(embedding, np.ndarray) else None
         c.execute("""
             INSERT OR REPLACE INTO knowledge (topic, explanation, embedding)
             VALUES (?, ?, ?)
-        """, (topic, explanation, embedding.tobytes() if isinstance(embedding, np.ndarray) else embedding))
+        """, (topic, explanation, blob))
         self.conn.commit()
 
     def get_all_entries(self):
